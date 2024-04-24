@@ -17,6 +17,10 @@ The dashboard includes the following visualizations:
 - Top 5 counties with the highest percentage change in housing prices over the specified period
 - Histogram of housing prices distribution
 
+## Article
+
+Curious to learn more? Check out the accompanying article: ["Deciphering the Housing Market Through Data-Driven Insights"](https://medium.com/@rvora3/deciphering-the-housing-market-through-data-driven-insights-95477b0f439e)  to see the fascinating insights gleaned from the data.
+
 ## Data Source
 
 The data used in this dashboard is sourced from https://www.zillow.com/research/data/. It includes information on housing prices recorded across various counties of Wisconsin over time.
